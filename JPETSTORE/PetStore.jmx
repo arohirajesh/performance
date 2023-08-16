@@ -2385,7 +2385,7 @@ __fp&quot; value=&quot;wYIUpWbsILJgzYQ6lHwF-wjH5hm9vEGMiYJPPScAHiSq-hm38t3y5kNBQ
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\Users\arohi.deokar\.jenkins\workspace\JPETSTORE\JPETSTORE\Results\Script_Aggregate_Report\Jenkins_AggregateToHTML.csv</stringProp>
+        <stringProp name="filename">C:\Users\arohi.deokar\.jenkins\workspace\Performace_Project\JPETSTORE\JPETSTORE\Results\Script_Aggregate_Report\Jenkins_AggregateToHTML.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="false">
